@@ -1,0 +1,8 @@
+train: ../coco/images/Train
+val: ../coco/images/Valid
+
+# number of classes
+nc: 2
+
+# class names
+names: ['fire', 'smoke']
